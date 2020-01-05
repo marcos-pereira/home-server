@@ -1,3 +1,3 @@
 # Django Tutorial
 
-This is the [the django project tutorial](https://docs.djangoproject.com/en/3.0/intro/). The tutorial results may be adapted to fulfill the home-server purpose.
+This code is generated from [the django project tutorial](https://docs.djangoproject.com/en/3.0/intro/). All the rights are reserved to the [the django project tutorial](https://docs.djangoproject.com/en/3.0/intro/). The tutorial is part of Django under the Modified BSD License by the Django Software Foundation and individual contributors. The tutorial results may be adapted to fulfill the home-server purpose.
