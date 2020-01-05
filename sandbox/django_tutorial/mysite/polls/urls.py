@@ -7,7 +7,8 @@ urlpatterns = [
     path('', views.index, name='index'),
     path('test_view1', views.test_view1, name='test_view1'),
     # ex: /polls/5/
-    path('<int:question_id>/', views.detail, name='detail'),
+    # added the word 'specifics'
+    path('specifics/<int:question_id>/', views.detail, name='detail'),
     # ex: /polls/5/results/
     path('<int:question_id>/results/', views.results, name='results'),
     # ex: /polls/5/vote/
